@@ -1,9 +1,4 @@
-## Hi there 👋
-
-
-**nima2004/nima2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently working on Strengthen my knowledge in Cybersecurity with hands-on practice and advanced tools.
 - 🌱 my current skills
